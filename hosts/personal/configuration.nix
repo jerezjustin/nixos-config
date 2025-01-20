@@ -12,7 +12,7 @@
     ../../modules/system/services.nix
     ../../modules/system/users-groups.nix
     ../../modules/programs/docker.nix
-    ../..
+    ../../modules/programs/virtualization.nix
   ];
 
   networking.hostName = userSettings.username;
