@@ -4,6 +4,7 @@
   imports = [
     ../../modules/system/hardware-configuration.nix
     ../../modules/system/boot.nix
+    ../../modules/system/gaming.nix
     ../../modules/system/gnome.nix
     ../../modules/system/locale.nix
     ../../modules/system/network.nix

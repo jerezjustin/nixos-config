@@ -27,7 +27,7 @@
         name = "Justin Jerez";
         username = "justinj";
         email = "justinjerez@hotmail.com";
-        dotfilesDir = "~/.dotfiles";
+        dotfilesDir = "/home/justinj/.dotfiles";
       };
 
       nixosConfigPath = "/home/${userSettings.username}/.dotfiles/hosts/${systemSettings.profile}/configuration.nix";

@@ -14,7 +14,7 @@
     beekeeper-studio
     git
     postman
-    vim
+    neovim
     vscode
 
     # System tools

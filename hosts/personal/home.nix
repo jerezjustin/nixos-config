@@ -10,7 +10,7 @@
 
   programs.git = {
     enable = true;
-    userName = "Justin Jerez";
-    userEmail = "justinjerez@hotmail.com";
+    userName = userSettings.name;
+    userEmail = userSettings.email;
   };
 }

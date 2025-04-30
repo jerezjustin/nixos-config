@@ -11,3 +11,7 @@ This repository contains my configurations, scripts and settings for managing my
 - `scripts/` - Utility scripts for various tasks.
 - `templates/` - Reusable templates for configurations or environments.
 - `assets/` - Media files like wallpapers and icons.
+
+## How to install
+
+
